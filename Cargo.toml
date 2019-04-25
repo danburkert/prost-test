@@ -1,0 +1,13 @@
+[package]
+name = "proc-test"
+version = "0.1.0"
+authors = ["Pedro Sland"]
+edition = "2018"
+
+[dependencies]
+bytes = "0.4"
+prost = "0.5"
+prost-types = "0.5"
+
+[build-dependencies]
+prost-build = "0.5"
