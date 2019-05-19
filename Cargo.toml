@@ -1,5 +1,5 @@
 [package]
-name = "proc-test"
+name = "prost-test"
 version = "0.1.0"
 authors = ["Pedro Sland"]
 edition = "2018"
